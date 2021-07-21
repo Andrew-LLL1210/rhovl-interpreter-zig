@@ -1,10 +1,10 @@
 # RHOVL Interpreter - Zig
 
 This project is an attempt by me to get comfortable with Zig by writing an interpreter
-for one of my esolangs, RHOVL (esolangs.org/wiki/RHOVL). This implementation is not complete
+for one of my esolangs, RHOVL ([wiki](https://esolangs.org/wiki/RHOVL)). This implementation is not complete
 in accordance to the spec; in particular, the syntax `(EXPR)` for preserving the carry value
 is not implemented, and there is no implementation for input (via `#`) at all.
-For a fully-featured RHOVL interpreter, see my python project [here](github.com/Andrew-LLL1210/rhovl-interpreter).
+For a fully-featured RHOVL interpreter, see my python project [here](https://github.com/Andrew-LLL1210/rhovl-interpreter).
 
 # Features
 
