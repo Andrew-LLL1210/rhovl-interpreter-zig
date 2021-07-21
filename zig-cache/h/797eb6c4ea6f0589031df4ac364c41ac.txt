@@ -1,0 +1,1 @@
+36856 281474977454603 1626485801221012100 51d5587a7a177928efc7c1a802501ad3 C:\ProgramData\zig\zig-windows-x86_64-0.9.0-dev.472+8cde0c91c\lib\zig\libc\mingw\lib-common\kernel32.def.in
